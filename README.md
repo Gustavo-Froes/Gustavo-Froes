@@ -22,9 +22,6 @@
   <a href="https://www.linkedin.com/in/gustavofroes/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-gray?style=flat-square&labelColor=white&logo=linkedin&logoColor=gray" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://x.com/Gustaveetos" target="_blank">
-    <img src="https://img.shields.io/badge/-Twitter-gray?style=flat-square&labelColor=white&logo=twitter&logoColor=gray" alt="Twitter Badge"/>
-  </a>
   <a href="https://www.instagram.com/gustavoffroes/?hl=pt-br" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-gray?style=flat-square&labelColor=white&logo=instagram&logoColor=gray" alt="Instagram Badge"/>
   </a>
